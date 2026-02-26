@@ -20,10 +20,8 @@ hero:
       link: /article/中医/  
     - theme: alt
       text: 易语言
-      link: /article/易语言/ 
-    - theme: alt
-      text: 常用工具库
-      link: /article/工具库/
+      link: /article/易语言/  
+      link: 
 features:
   - title: 高效快速
     icon:
@@ -50,9 +48,9 @@ features:
       src: /indexImage/pinia.svg
     details: 项目使用 vscode 编辑器书写管理，使用起来更加简单
     link: https://code.visualstudio.com/
-  - title: 专注内容
+  - title: AI写的工具库
     icon:
       src: /indexImage/nestjs.svg
-    details: 项目基于vitepress静态文档框架驱动，无需自己会复杂编程, 让网站本质归于内容
-    link: https://vitepress.dev/zh/
+    details: AI写的工具库
+    link: article/工具库/
 ---
