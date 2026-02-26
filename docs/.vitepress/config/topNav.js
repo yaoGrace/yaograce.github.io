@@ -12,6 +12,7 @@ export default [
       text: "工具箱",
       items: [ 
         { text: "🎯vitepress手册", link: "/article/vitepress/" },  
+        { text: "🎯phpGrace手册", link: "/article/kouGrace/" },  
         { text: "🎯常用软件", link: "/article/tools/" },  
       ],
     },
