@@ -21,6 +21,9 @@ hero:
     - theme: alt
       text: 易语言
       link: /article/易语言/ 
+    - theme: alt
+      text: 常用工具库
+      link: /article/工具库/
 features:
   - title: 高效快速
     icon:
